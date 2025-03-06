@@ -34,7 +34,7 @@
     <tbody>
         <tr>
             <td>
-                <code>козус 1</code><br>
+                <code>Казус 1</code><br>
             </td>
             <td>
                 <a href="./@meets/meet-01/README.md">
