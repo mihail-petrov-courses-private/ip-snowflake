@@ -7,7 +7,7 @@
 
 ### Преди да започнете
 
-Разполагате с S3 бъкет, в който се съхранява - един единствен файл **ecommerce_orders.csv**, който можете да свалите [от ТУК](https://fakecompanydata.s3.eu-central-1.amazonaws.com/ecommerce_orders.csv). Адреса на S3 бъкета е **s3://fakecompanydata/**. 
+Разполагате с S3 бъкет, в който се съхранява - един единствен файл **ecommerce_orders.csv**, който можете да свалите [от ТУК](https://fakecompanydata.s3.eu-central-1.amazonaws.com/ecommerce_orders.csv). Адреса на S3 бъкета е **s3://fakecompanydata/**
 
 
 Вашата задача е да:
