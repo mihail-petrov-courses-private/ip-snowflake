@@ -75,6 +75,21 @@
             - Извличане на смисъл от информация <br>
             - Създаване на документация <br>
             </td>
+        </tr>
+        <tr>
+            <td>
+                <code>Казус 4</code><br>
+            </td>
+            <td>
+                <a href="./@meets/meet-03/README.md">
+                    Copy Paste
+                </a>
+            </td>
+            <td>
+            - Първи сблъсък с ETL <br>
+            - Създаване на Stage в Snowflake <br>
+            - Копиране на данни и тяхната трансформация <br>
+            </td>
         </tr>        
     <tbody>
 </table>
